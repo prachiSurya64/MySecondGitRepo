@@ -1,0 +1,20 @@
+.QR{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(236, 221, 255);
+}
+
+.h1{
+    background-color: cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Light', sans-serif;
+    text-align: left;
+    margin: 2;
+    padding: 20px;
+    border: 2px solid rgb(193, 173, 173);
+    border-bottom-color: black;
+    border-right-color: black;
+    border-top-left-radius:15px;
+}
